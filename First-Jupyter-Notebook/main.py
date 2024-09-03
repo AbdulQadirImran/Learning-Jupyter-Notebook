@@ -1,4 +1,4 @@
-name:str = "abdul qadir"
+name:str = "abdul qadir" 
 
 #object.method()
 #object.attribute
